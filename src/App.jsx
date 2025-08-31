@@ -4,12 +4,12 @@ import Foreground from './Components/Foreground'
 
 const App = () => {
   return (
-    <div className='relative h-screen w-full bg-zinc-900 '>
-   
-    <Background />
+      <div className='relative min-h-screen w-full bg-zinc-900 '>
+    
+      <Background />
 
-    <Foreground />
-    </div>
+      <Foreground />
+      </div>
   )
 }
 
