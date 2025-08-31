@@ -3,6 +3,9 @@
 *{
     font-family: 'poppins';
 }
+body{
+    box-sizing: border-box;
+}
 ::selection{
     color: rgb(224, 119, 21);
 }
